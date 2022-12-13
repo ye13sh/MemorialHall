@@ -1,0 +1,6 @@
+Create Table Ticket(ticket_NO int,
+                    show_Name varchar(100),
+                     time varchar(50),
+                     date varchar(50),
+                      seat_NO varchar(50),
+                        seat_class varchar(50));
